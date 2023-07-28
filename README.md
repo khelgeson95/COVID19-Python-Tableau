@@ -7,11 +7,11 @@ To contribute to a better understanding of the pandemic's overall toll on public
 
 ## Data
 Data sets provided by the CDC:
-  Primary set: _Provisional COVID-19 Deaths by Sex and Age, 2020 - 2023_
-  Source: https://catalog.data.gov/dataset/provisional-covid-19-death-counts-by-sex-age-and-state
-  Downloaded: 7/12/23
-  Secondary set: Conditions Contributing to COVID-19 Deaths by State and Age, Provisional 2020 - 2023
-  Source: https://catalog.data.gov/dataset/conditions-contributing-to-deaths-involving-coronavirus-disease-2019-covid-19-by-age-group
-  Downloaded: 7/12/23
-US States Shape file: https://geojson-maps.ash.ms/
-Downloaded: 7/16/23
+  ### Primary set: _Provisional COVID-19 Deaths by Sex and Age, 2020 - 2023_
+  ### Source: https://catalog.data.gov/dataset/provisional-covid-19-death-counts-by-sex-age-and-state
+  ### Downloaded: 7/12/23
+  ### Secondary set: _Conditions Contributing to COVID-19 Deaths by State and Age, Provisional 2020 - 2023_
+  ### Source: https://catalog.data.gov/dataset/conditions-contributing-to-deaths-involving-coronavirus-disease-2019-covid-19-by-age-group
+  ### Downloaded: 7/12/23
+### US States Shape file: https://geojson-maps.ash.ms/
+### Downloaded: 7/16/23
