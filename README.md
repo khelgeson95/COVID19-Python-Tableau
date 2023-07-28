@@ -15,3 +15,7 @@ Data sets provided by the CDC:
   ### Downloaded: 7/12/23
 ### US States Shape file: https://geojson-maps.ash.ms/
 ### Downloaded: 7/16/23
+
+## Tableau Presentation
+### https://public.tableau.com/app/profile/kirstin.helgeson2221/viz/COVID-19DeathsandContributingConditions2020-2023-Final/COVID-19DeathsandContributingConditions012020-072023?publish=yes
+
